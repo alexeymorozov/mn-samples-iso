@@ -1,0 +1,243 @@
+/__w/mn-samples-iso/mn-samples-iso/published/documents/international-standard/rice-en.dis.err errors
+
+
+== Style
+
+(): Scope must occur before Terms and Definitions
+(): Scope must occur before Terms and Definitions
+(): Scope must occur before Terms and Definitions
+(): Scope must occur before Terms and Definitions
+(): Scope must occur before Terms and Definitions
+(): AnnexA-4-1:Preparation of test sample: subclause is only child
+(XML Line 000074): Foreword may contain requirement: ISO shall not be held responsible for identifying any or all such patent rights
+	<foreword id="_a4b70541-5dc5-4e04-884b-d1b6e0b65ca2" obligation="informative"><title>Foreword</title><p id="_daa31e90-677e-44c6-8c98-33bf37db3cd8">ISO (the International Organization for Standardization)
+	is a worldwide federation of national standards bodies (ISO member bodies). The work of preparing International Standards is normally carried out through ISO technical committees. Each member body interested in a subject for which a technical committee has been established has the right to be represented on that committee. International organizations, governmental and non-governmental, in liaison with ISO, also take part in the work. ISO collaborates closely with the International Electrotechnical Commission (IEC) on all matters of electrotechnical standardization.</p>
+	<p id="_3e3c0062-4cfa-40ad-9dfa-6b6a3bd5ec00">The procedures used to develop this document and those intended for its further maintenance are described in the ISO/IEC Directives, Part 1. In particular the different approval criteria needed for the different types of ISO documents should be noted. This document was drafted in accordance with the editorial rules of the ISO/IEC Directives, Part 2 (see www.iso.org/directives).</p>
+	<p id="_bfd08f56-2621-4478-ad4c-10ba78c4c655">Attention is drawn to the possibility that some of the elements of this document may be the subject of patent rights. ISO shall not be held responsible for identifying any or all such patent rights. Details of any patent rights identified during the development of the document will be in the Introduction and/or on the ISO list of patent declarations received (see www.iso.org/patents).</p>
+	<p id="_4774c170-ca88-4b89-9a5d-9a306cd37b31">Any trade name used in this document is information given for the convenience of users and does not constitute an endorsement.</p>
+(XML Line 000074): Foreword may contain permission: Attention is drawn to the possibility that some of the elements of this document may be the subject of patent rights
+	<foreword id="_a4b70541-5dc5-4e04-884b-d1b6e0b65ca2" obligation="informative"><title>Foreword</title><p id="_daa31e90-677e-44c6-8c98-33bf37db3cd8">ISO (the International Organization for Standardization)
+	is a worldwide federation of national standards bodies (ISO member bodies). The work of preparing International Standards is normally carried out through ISO technical committees. Each member body interested in a subject for which a technical committee has been established has the right to be represented on that committee. International organizations, governmental and non-governmental, in liaison with ISO, also take part in the work. ISO collaborates closely with the International Electrotechnical Commission (IEC) on all matters of electrotechnical standardization.</p>
+	<p id="_3e3c0062-4cfa-40ad-9dfa-6b6a3bd5ec00">The procedures used to develop this document and those intended for its further maintenance are described in the ISO/IEC Directives, Part 1. In particular the different approval criteria needed for the different types of ISO documents should be noted. This document was drafted in accordance with the editorial rules of the ISO/IEC Directives, Part 2 (see www.iso.org/directives).</p>
+	<p id="_bfd08f56-2621-4478-ad4c-10ba78c4c655">Attention is drawn to the possibility that some of the elements of this document may be the subject of patent rights. ISO shall not be held responsible for identifying any or all such patent rights. Details of any patent rights identified during the development of the document will be in the Introduction and/or on the ISO list of patent declarations received (see www.iso.org/patents).</p>
+	<p id="_4774c170-ca88-4b89-9a5d-9a306cd37b31">Any trade name used in this document is information given for the convenience of users and does not constitute an endorsement.</p>
+(XML Line 000074): Foreword may contain recommendation: In particular the different approval criteria needed for the different types of ISO documents should be noted
+	<foreword id="_a4b70541-5dc5-4e04-884b-d1b6e0b65ca2" obligation="informative"><title>Foreword</title><p id="_daa31e90-677e-44c6-8c98-33bf37db3cd8">ISO (the International Organization for Standardization)
+	is a worldwide federation of national standards bodies (ISO member bodies). The work of preparing International Standards is normally carried out through ISO technical committees. Each member body interested in a subject for which a technical committee has been established has the right to be represented on that committee. International organizations, governmental and non-governmental, in liaison with ISO, also take part in the work. ISO collaborates closely with the International Electrotechnical Commission (IEC) on all matters of electrotechnical standardization.</p>
+	<p id="_3e3c0062-4cfa-40ad-9dfa-6b6a3bd5ec00">The procedures used to develop this document and those intended for its further maintenance are described in the ISO/IEC Directives, Part 1. In particular the different approval criteria needed for the different types of ISO documents should be noted. This document was drafted in accordance with the editorial rules of the ISO/IEC Directives, Part 2 (see www.iso.org/directives).</p>
+	<p id="_bfd08f56-2621-4478-ad4c-10ba78c4c655">Attention is drawn to the possibility that some of the elements of this document may be the subject of patent rights. ISO shall not be held responsible for identifying any or all such patent rights. Details of any patent rights identified during the development of the document will be in the Introduction and/or on the ISO list of patent declarations received (see www.iso.org/patents).</p>
+	<p id="_4774c170-ca88-4b89-9a5d-9a306cd37b31">Any trade name used in this document is information given for the convenience of users and does not constitute an endorsement.</p>
+(XML Line 000088): possible decimal point: 4.3
+	<p id="_60a2ca04-7737-4ca4-bdfc-0967857cedd0">deletion of 4.3.</p>
+(XML Line 000093): number not broken up in threes: 2016
+	<p id="_2002d147-0027-4d64-a91a-e2e12d380d2a">For further information on the Foreword, see <strong>ISO/IEC Directives, Part 2, 2016, Clause 12.</strong></p>
+(XML Line 000094): Introduction may contain requirement: ISO shall not be held responsible for identifying any or all such patent rights.
+	<introduction id="_introduction" obligation="informative"><title>Introduction</title><p id="_32d9cf22-f62a-4103-8b5d-8b087f121f97">This document was developed in response to worldwide demand for minimum specifications for rice traded internationally, since most commercial bulks of grain, which have not been screened or aspirated, contain a proportion of other grains, weed seeds, chaff, straw, stones, sand, etc. The vegetable materials can have physical and biological properties which differ from those of the main constituent and can therefore affect the storage behaviour.</p>
+	<p id="_0df18d08-ce36-4bb4-b3f9-d5023a2d4fcb">Rice is a permanent host to a considerable microflora; most of these microorganisms are cosmopolitan, the majority are innocuous, but some produce harmful by-products. Microflora communities present on freshly harvested rice include many types of bacteria, moulds and yeasts. While the rice is ripening and its moisture content is falling, the number of field microorganisms, mainly bacteria, diminishes. When the rice is harvested, it is invaded by storage microorganisms and the field microflora gradually dies out. If the mass fraction of moisture (formerly expressed as moisture content) is less than 18 %, the microflora does not multiply, whereas above 18 % it does so rapidly. Thus, at harvest, the qualitative and the quantitative composition of the microflora depends more upon ecological factors than upon the variety of the rice. During transport and storage, additions to the microfloral population occur. Microorganisms on the rice at harvest tend to die out during storage and are replaced by microorganisms adapted to storage conditions.</p>
+	<p id="_39c326f9-aa51-4a46-9d6c-c7df4a2b7dbe">Storage losses have been estimated as being an average of 5 %, and as much as 30 %, especially in countries with climates favourable to the rapid development of agents of deterioration and where storage techniques are poorly developed, such as developing countries in the damp tropics. The magnitude of these figures highlights the need to promote throughout the world a rapid improvement in techniques of conservation.</p>
+	<p id="_3d585cb6-7810-4d43-8052-fbdb57d4b94d">The International Organization for Standardization (ISO) draws attention to the fact that it is claimed that compliance with this document may involve the use of a patent concerning sample dividers given in <xref target="AnnexA"/> and shown in <xref target="figureA-1"/>.</p>
+	<p id="_bcfe64f1-acbe-47c4-b05e-f68f214a48e9">ISO takes no position concerning the evidence, validity and scope of this patent right.</p>
+(XML Line 000108): number not broken up in threes: 16634
+	<note format="text/plain" type="Unpublished-Status">Under preparation. (Stage at the time of publication ISO/DIS 16634)</note>
+(XML Line 000108): number not broken up in threes: 16634
+	<fn reference="2">Under preparation. (Stage at the time of publication ISO/DIS 16634)</fn>
+(XML Line 000112): possible decimal point: 3.1
+	<termsource status="identical">
+	<origin bibitemid="ISO7301" type="inline" citeas="ISO 7301:2011"><localityStack><locality type="clause"><referenceFrom>3.1</referenceFrom></locality></localityStack></origin>
+	</termsource>
+(XML Line 000119): possible decimal point: 3.2
+	<termsource status="modified">
+	<origin bibitemid="ISO7301" type="inline" citeas="ISO 7301:2011"><localityStack><locality type="clause"><referenceFrom>3.2</referenceFrom></locality></localityStack></origin>
+	<modification>
+	<p id="_9b926dcc-edba-405e-990e-b2917accaae0">The term “cargo rice” is shown as deprecated, and Note 1 to entry is not included here</p>
+	</modification>
+(XML Line 000129): possible decimal point: 3.3
+	<termsource status="identical">
+	<origin bibitemid="ISO7301" type="inline" citeas="ISO 7301:2011"><localityStack><locality type="clause"><referenceFrom>3.3</referenceFrom></locality></localityStack></origin>
+	</termsource>
+(XML Line 000162): possible decimal point: 3.1
+	<termsource status="identical">
+	<origin bibitemid="ISO6646" type="inline" citeas="ISO 6646"><localityStack><locality type="clause"><referenceFrom>3.1</referenceFrom></locality></localityStack></origin>
+	</termsource>
+(XML Line 000169): possible decimal point: 3.1
+	<termsource status="identical">
+	<origin bibitemid="ISO20483" type="inline" citeas="ISO 20483:2013"><localityStack><locality type="clause"><referenceFrom>3.1</referenceFrom></locality></localityStack></origin>
+	</termsource>
+(XML Line 000176): possible decimal point: 3.2
+	<termsource status="identical">
+	<origin bibitemid="ISO20483" type="inline" citeas="ISO 20483:2013"><localityStack><locality type="clause"><referenceFrom>3.2</referenceFrom></locality></localityStack></origin>
+	</termsource>
+(XML Line 000183): possible decimal point: 3.1
+	<termsource status="identical">
+	<origin bibitemid="ISO14864" type="inline" citeas="ISO 14864:1998"><localityStack><locality type="clause"><referenceFrom>3.1</referenceFrom></locality></localityStack></origin>
+	</termsource>
+(XML Line 000187): possible decimal point: 3.2
+	<termsource status="identical">
+	<origin bibitemid="ISO14864" type="inline" citeas="ISO 14864:1998"><localityStack><locality type="clause"><referenceFrom>3.2</referenceFrom></locality></localityStack></origin>
+	</termsource>
+(XML Line 000194): possible decimal point: 3.3
+	<termsource status="identical">
+	<origin bibitemid="ISO14864" type="inline" citeas="ISO 14864:1998"><localityStack><locality type="clause"><referenceFrom>3.3</referenceFrom></locality></localityStack></origin>
+	</termsource>
+(XML Line 000197): Hanging paragraph in clause
+	<clause id="_specifications" inline-header="false" obligation="normative"><title>Specifications</title><clause id="_general_organoleptic_and_health_characteristics" inline-header="false" obligation="normative"><title>General, organoleptic and health characteristics</title><p id="_6f996d7b-e579-4857-aec7-f6fcc23511e2">Kernels of rice, whether parboiled, husked or milled, and whether whole or broken, shall be sound, clean and free from foreign odours or odour which indicates deterioration.</p>
+	<p id="_7cc17ea4-22a6-47ea-a92c-ad078709f59c">The levels of additives and pesticide residues and other contaminants shall not exceed the maximum limits permitted in the country of destination.</p>
+	<p id="_18168e45-0ca4-4d79-9a68-d7aba9aeea8b">The presence of living insects which are visible to the naked eye is not permitted. This should be determined before separating the bulk sample into test samples.</p></clause>
+	<clause id="_physical_and_chemical_characteristics" inline-header="false" obligation="normative"><title>Physical and chemical characteristics</title><clause id="_b242566b-e2a6-49d9-8a8e-ac2c56097099" inline-header="false" obligation="normative"><p id="_711b5f63-0b0a-4a2a-a7cc-eec93261edfe">The mass fraction of moisture, determined in accordance with <eref type="inline" bibitemid="ISO712" citeas="ISO 712"/>, using an oven complying with the requirements of <eref type="inline" bibitemid="IEC61010-2" citeas="IEC 61010-2:1998"/>, shall not be greater than 15 %.<fn reference="1"><p id="_bc31bea1-ebbd-4532-b642-0b8edfed0a56">Formerly denoted as 15 % (m/m).</p></fn></p>
+	<p id="_d6186924-e010-4450-b602-202ac9dbb274">The mass fraction of extraneous matter and defective kernels in husked and milled rice, whether or not parboiled, determined in accordance with <xref target="AnnexA"/>, shall not be greater than the values specified in <xref target="table1"/>.</p>
+(XML Line 000200): Hanging paragraph in clause
+	<clause id="_physical_and_chemical_characteristics" inline-header="false" obligation="normative"><title>Physical and chemical characteristics</title><clause id="_b242566b-e2a6-49d9-8a8e-ac2c56097099" inline-header="false" obligation="normative"><p id="_711b5f63-0b0a-4a2a-a7cc-eec93261edfe">The mass fraction of moisture, determined in accordance with <eref type="inline" bibitemid="ISO712" citeas="ISO 712"/>, using an oven complying with the requirements of <eref type="inline" bibitemid="IEC61010-2" citeas="IEC 61010-2:1998"/>, shall not be greater than 15 %.<fn reference="1"><p id="_bc31bea1-ebbd-4532-b642-0b8edfed0a56">Formerly denoted as 15 % (m/m).</p></fn></p>
+	<p id="_d6186924-e010-4450-b602-202ac9dbb274">The mass fraction of extraneous matter and defective kernels in husked and milled rice, whether or not parboiled, determined in accordance with <xref target="AnnexA"/>, shall not be greater than the values specified in <xref target="table1"/>.</p>
+	<note id="_875e4d77-87f0-43bd-8de8-ff7f7f52c5b4">
+	<p id="_8b840ea7-9abd-4d00-81c6-3c4de431a610">Lower mass fractions of moisture are sometimes needed for certain destinations depending on the climate, duration of transport and storage. For further details, see <eref type="inline" bibitemid="ISO6322-1" citeas="ISO 6322-1"/>, <eref type="inline" bibitemid="ISO6322-2" citeas="ISO 6322-2"/> and <eref type="inline" bibitemid="ISO6322-3" citeas="ISO 6322-3"/>.</p>
+	</note></clause>
+(XML Line 000281): Footnote may contain requirement: 
+  The maximum permissible mass fraction of defects shall be determined with respect to the mass fraction obtained after milling
+	<fn reference="c">
+	  <p id="_4059529f-03e2-4767-95ad-f092373ad05e">The maximum permissible mass fraction of defects shall be determined with respect to the mass fraction obtained after milling.</p>
+	</fn>
+(XML Line 000283): Footnote may contain requirement: 
+  The maximum permissible mass fraction of defects shall be determined with respect to the mass fraction obtained after milling
+	<fn reference="c">
+	  <p id="_da90723a-a83e-44bb-90f5-774ccfc785c0">The maximum permissible mass fraction of defects shall be determined with respect to the mass fraction obtained after milling.</p>
+	</fn>
+(XML Line 000302): Footnote may contain requirement: 
+  The maximum permissible mass fraction of defects shall be determined with respect to the mass fraction obtained after milling
+	<fn reference="c">
+	  <p id="_d2d67b3e-0e2a-48b6-b65c-730ef6c708d8">The maximum permissible mass fraction of defects shall be determined with respect to the mass fraction obtained after milling.</p>
+	</fn>
+(XML Line 000311): Footnote may contain requirement: 
+  The maximum permissible mass fraction of defects shall be determined with respect to the mass fraction obtained after milling
+	<fn reference="c">
+	  <p id="_1e5568fb-a5d8-4cbf-9bca-95155a632aa4">The maximum permissible mass fraction of defects shall be determined with respect to the mass fraction obtained after milling.</p>
+	</fn>
+(XML Line 000318): Footnote may contain requirement: 
+  The maximum permissible mass fraction of defects shall be determined with respect to the mass fraction obtained after milling
+	<fn reference="c">
+	  <p id="_0599f9e9-46b7-4611-a757-196d4528dbb2">The maximum permissible mass fraction of defects shall be determined with respect to the mass fraction obtained after milling.</p>
+	</fn>
+(XML Line 000330): Footnote may contain requirement: 
+  The maximum permissible mass fraction of defects shall be determined with respect to the mass fraction obtained after milling
+	<fn reference="c">
+	  <p id="_0563d933-2792-4df3-9d7f-b6c938de1ca5">The maximum permissible mass fraction of defects shall be determined with respect to the mass fraction obtained after milling.</p>
+	</fn>
+(XML Line 000332): Footnote may contain requirement: 
+  The maximum permissible mass fraction of defects shall be determined with respect to the mass fraction obtained after milling
+	<fn reference="c">
+	  <p id="_1761dc78-8b97-430b-b31f-fb08910059ab">The maximum permissible mass fraction of defects shall be determined with respect to the mass fraction obtained after milling.</p>
+	</fn>
+(XML Line 000357): Hanging paragraph in clause
+	<clause id="_test_methods" inline-header="false" obligation="normative"><title>Test methods</title><clause id="_moisture_content" inline-header="false" obligation="normative">
+	<title>Moisture content</title>
+	<p id="_3eb55f02-1a7f-4feb-9232-97c23586525c">Determine the mass fraction of moisture in accordance with the method specified in <eref type="inline" bibitemid="ISO712" citeas="ISO 712"/>.</p>
+	</clause>
+	<clause id="_waxy_rice_content" inline-header="false" obligation="normative">
+(XML Line 000365): number not broken up in threes: 16634
+	<p id="_798e3500-7e0e-41e9-a40c-72700c992788">Determine the nitrogen content and crude protein content in accordance with either <eref type="inline" bibitemid="ISO16634" citeas="ISO 16634:--"><localityStack><locality type="clause"><referenceFrom>9</referenceFrom></locality></localityStack></eref><fn reference="2">Under preparation. (Stage at the time of publication ISO/DIS 16634)</fn>, or <eref type="inline" bibitemid="ISO20483" citeas="ISO 20483:2013"/>. For details on the determination of protein content using the Kjeldahl method, see Reference <eref type="inline" bibitemid="ref12" citeas="[10]"/> in the Bibliography. For details concerning the use of the Dumas method, see References <eref type="inline" bibitemid="ref10" citeas="[15]"/> and <eref type="inline" bibitemid="ref16" citeas="[16]"/>.</p>
+(XML Line 000365): undated reference ISO 16634:-- should not contain specific elements
+	<eref type="inline" bibitemid="ISO16634" citeas="ISO 16634:--">
+	  <localityStack>
+	    <locality type="clause">
+	      <referenceFrom>9</referenceFrom>
+	    </locality>
+(XML Line 000369): Hanging paragraph in clause
+	<clause id="_husked_rice_yield_2" inline-header="false" obligation="normative"><title>Husked rice yield</title><clause id="_determination" inline-header="false" obligation="normative"><title>Determination</title><admonition id="_22231ef6-b442-496f-adbb-61a97a810c79" type="caution">
+	<p id="_7727a66b-995f-4174-8bc8-43871a0ef037">Only use paddy or parboiled rice for the determination of husked rice yield.</p>
+	</admonition>
+	<p id="_4d446fc2-c2ed-49d2-83b7-2b49bf8d0413">Determine the husked rice yield in accordance with <eref type="inline" bibitemid="ISO6646" citeas="ISO 6646"/>.</p></clause>
+	<clause id="_precision" inline-header="false" obligation="normative"><title>Precision</title><clause id="_interlaboratory_test" inline-header="false" obligation="normative">
+(XML Line 000373): Hanging paragraph in clause
+	<clause id="_precision" inline-header="false" obligation="normative"><title>Precision</title><clause id="_interlaboratory_test" inline-header="false" obligation="normative">
+	<title>Interlaboratory test</title>
+	<p id="_3f10c258-4bd5-45e4-b313-3891881f95a5">The results of an interlaboratory test are given in <xref target="AnnexD"/> for information</p>
+	</clause>
+	<clause id="_repeatability" inline-header="false" obligation="normative"><title>Repeatability</title><p id="_b7c336fc-99b5-4746-97e7-e3fbf9e1ecf4">The absolute difference between two independent single test results, obtained using the same method on identical test material in the same laboratory by the same operator using the same equipment within a short interval of time, shall not exceed the arithmetic mean of the values for <stem type="MathML"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>r</mi></math></stem> obtained from the interlaboratory study for husked rice in more than 5 % of cases:</p>
+(XML Line 000378): no space before percent sign: 1%
+	<formula id="_34267b67-a8cb-4c92-89cb-ae2b08b0a0aa" unnumbered="true">
+	<stem type="MathML"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>r</mi><mo>=</mo><mn>1</mn><mi>%</mi></math></stem>
+	<dl id="_f1ecabb2-685c-4522-89e5-bfeca4eb9038" key="true">
+	<dt>
+	<stem type="MathML"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>r</mi></math></stem>
+(XML Line 000391): no space before percent sign: 3%
+	<formula id="_de3e006d-35fd-4985-81a4-a9217105b4b1" unnumbered="true">
+	<stem type="MathML"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>R</mi><mo>=</mo><mn>3</mn><mi>%</mi></math></stem>
+	<dl id="_d7f645af-af62-40dd-9640-661d7d14e7bc" key="true">
+	<dt>
+	<stem type="MathML"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>R</mi></math></stem>
+(XML Line 000436): Hanging paragraph in clause
+	<annex id="AnnexA" inline-header="false" obligation="normative"><title>Determination of defects</title><clause id="_principle" inline-header="false" obligation="normative">
+	<title>Principle</title>
+	<p id="_de8cafec-f175-458a-a60e-38376c93cf93">Extraneous matter, broken kernels, damaged kernels and other kinds of rice are separated manually according to the following types: husked rice, milled rice, husked parboiled rice and milled parboiled rice. Each type is then weighed.</p>
+	</clause>
+	<clause id="_apparatus" inline-header="false" obligation="normative"><title>Apparatus</title><p id="_9662d3d2-351e-4729-9ac8-729fc24767dd">The usual laboratory apparatus and, in particular, the following.</p>
+(XML Line 000440): Hanging paragraph in clause
+	<clause id="_apparatus" inline-header="false" obligation="normative"><title>Apparatus</title><p id="_9662d3d2-351e-4729-9ac8-729fc24767dd">The usual laboratory apparatus and, in particular, the following.</p>
+	<clause id="AnnexA-2-1" inline-header="true" obligation="normative">
+	<title>Sample divider,</title>
+	<p id="_8d5007e9-3927-42b6-98af-9974225f644f">consisting of a conical sample divider or multiple-slot sample divider with a distribution system, e.g. “Split-it-right” sample divider, such as that shown in <xref target="figureA-1"/>.</p>
+	</clause>
+(XML Line 000468): 'see clause5' is pointing to a normative section
+	<xref target="clause5"/>
+(XML Line 000470): Hanging paragraph in clause
+	<clause id="_procedure" inline-header="false" obligation="normative">
+	<title>Procedure</title>
+	<clause id="AnnexA-4-1" inline-header="false" obligation="normative"><title>Preparation of test sample</title><p id="_2e3179bc-8c7f-4d33-9cea-23a79260e134">Carefully mix the laboratory sample to make it as uniform as possible, then proceed to reduce it, using a divider (<xref target="AnnexA-2-1"/>), until a quantity of about 30 g is obtained.</p>
+	<p id="_2867aef9-ec37-41c5-8577-cbdddaea94f5">All parts of kernels which get stuck in the perforations of a sieve should be considered to be retained by the sieve.</p>
+	<figure id="figureA-1">
+(XML Line 000510): Hanging paragraph in clause
+	<annex id="AnnexB" inline-header="false" obligation="informative"><title>Determination of the waxy rice content of parboiled rice</title><clause id="_principle_2" inline-header="false" obligation="informative">
+	<title>Principle</title>
+	<p id="_a804a3e8-da98-48b5-ad00-0a4b886fbb3b">Waxy rice kernels have a reddish brown colour when stained in an iodine solution, while non-waxy rice kernels show a dark blue colour.</p>
+	</clause>
+	<clause id="_apparatus_2" inline-header="false" obligation="informative"><title>Apparatus</title><p id="_be0c8ddd-22bc-4fb3-b738-fd249602861b">The usual laboratory apparatus and, in particular, the following.</p>
+(XML Line 000514): Hanging paragraph in clause
+	<clause id="_apparatus_2" inline-header="false" obligation="informative"><title>Apparatus</title><p id="_be0c8ddd-22bc-4fb3-b738-fd249602861b">The usual laboratory apparatus and, in particular, the following.</p>
+	<clause id="AnnexB-2-1" inline-header="true" obligation="informative">
+	<title>Balance,</title>
+	<p id="_9d109b35-2698-4ed6-9fb8-553782baecb7">capable of weighing to the nearest 0,01 g.</p>
+	</clause>
+(XML Line 000529): possible decimal point: 0.020
+	<p id="_2ee2e6ae-e441-4c2f-9578-9232ae3045ca">with long rounded apertures of (1 mm <stem type="MathML"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable><mtr><mtd><mrow><mo>+</mo><mn>0.02</mn></mrow></mtd></mtr><mtr><mtd><mn>0</mn></mtd></mtr></mtable></math></stem> mm) × (20 mm <stem type="MathML"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable><mtr><mtd><mrow><mo>+</mo><mn>2</mn></mrow></mtd></mtr><mtr><mtd><mrow><mo>−</mo><mn>1</mn></mrow></mtd></mtr></mtable></math></stem> mm).</p>
+(XML Line 000540): Hanging paragraph in clause
+	<clause id="_reagents" inline-header="false" obligation="informative"><title>Reagents</title><admonition id="_7da81cf9-0f76-430e-b84f-f6361d7c5ef8" type="warning">
+	<p id="_5f12a496-3d59-4ffb-b88c-1db9ae5b1b54">Direct contact of iodine with skin can cause lesions so care should be taken in handling iodine. Iodine vapour is very irritating to eyes and mucous membranes.</p>
+	</admonition>
+	<clause id="AnnexB-3-1" inline-header="true" obligation="informative">
+	<title>Deionized water,</title>
+(XML Line 000557): Hanging paragraph in clause
+	<clause id="_determination_3" inline-header="false" obligation="informative"><title>Determination</title><clause id="_3" inline-header="false" obligation="informative">
+	
+	<p id="_9dd0cbd9-8524-419b-ab7c-3308579ea3ad">Weigh a portion of about 100 g of milled rice and put it into a glass beaker (<xref target="AnnexB-2-2"/>).</p>
+	</clause>
+	<clause id="_4" inline-header="false" obligation="informative">
+
+
+== Metanorma XML Syntax
+
+(XML Line 000142:125): IDREF "foreword" without matching ID
+(XML Line 000142:125): IDREF "foreword" without matching ID
+(XML Line 000157:105): element "clause" incomplete; missing required element "clause"
+(XML Line 000256:211): element "clause" not allowed yet; expected element "admonition", "amend", "bookmark", "dl", "example", "figure", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table" or "ul"
+(XML Line 000258:222): element "clause" incomplete; missing required element "clause"
+(XML Line 000259:246): element "clause" not allowed yet; expected element "admonition", "amend", "bookmark", "dl", "example", "figure", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table" or "ul"
+(XML Line 000263:17): element "clause" incomplete; missing required element "clause"
+(XML Line 000411:10): element "clause" incomplete; missing required element "clause"
+(XML Line 000415:10): element "clause" incomplete; missing required element "clause"
+(XML Line 000416:176): element "clause" not allowed yet; expected element "admonition", "amend", "bookmark", "dl", "example", "figure", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table" or "ul"
+(XML Line 000419:10): element "clause" incomplete; missing required element "clause"
+(XML Line 000423:10): element "clause" incomplete; missing required element "clause"
+(XML Line 000424:544): text not allowed here; expected element "p"
+(XML Line 000424:547): element "fn" incomplete; missing required element "p"
+(XML Line 000425:564): element "clause" incomplete; missing required element "clause"
+(XML Line 000427:120): element "clause" incomplete; missing required element "clause"
+(XML Line 000428:185): element "clause" not allowed yet; expected element "admonition", "amend", "bookmark", "dl", "example", "figure", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table" or "ul"
+(XML Line 000431:171): element "clause" incomplete; missing required element "clause"
+(XML Line 000432:174): element "clause" not allowed yet; expected element "admonition", "amend", "bookmark", "dl", "example", "figure", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table" or "ul"
+(XML Line 000435:10): element "clause" incomplete; missing required element "clause"
+(XML Line 000448:10): element "clause" incomplete; missing required element "clause"
+(XML Line 000461:10): element "clause" incomplete; missing required element "clause"
+(XML Line 000463:48): element "ol" missing required attribute "type"
+(XML Line 000488:15): element "clause" incomplete; missing required element "clause"
+(XML Line 000490:378): element "clause" incomplete; missing required element "clause"
+(XML Line 000494:10): element "clause" incomplete; missing required element "clause"
+(XML Line 000798:12): element "appendix" incomplete; missing required element "clause"

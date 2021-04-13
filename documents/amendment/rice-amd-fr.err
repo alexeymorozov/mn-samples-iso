@@ -1,0 +1,22 @@
+/__w/mn-samples-iso/mn-samples-iso/published/documents/amendment/rice-amd-fr.err errors
+
+
+== Style
+
+(XML Line 000119): possible decimal point: 2.1
+	<p id="_9aaf4ab9-070a-4ec1-9d2f-43a873d0b1df"><strong>A.2.1 Diviseur d’échantillon</strong>, de type échantillonneur conique ou échantillonneur à fentes multiples avec système distributeur, par exemple de type «Bon diviseur» comme représenté à la Figure A.1 ou de type diviseur à fentes multiples comme représenté à la Figure A.2.</p>
+
+
+== Metanorma XML Syntax
+
+(XML Line 000132:197): element "clause" incomplete; missing required element "clause"
+(XML Line 000137:160): element "clause" incomplete; missing required element "clause"
+(XML Line 000141:31): element "clause" incomplete; missing required element "clause"
+(XML Line 000148:31): element "clause" incomplete; missing required element "clause"
+(XML Line 000152:262): element "clause" incomplete; missing required element "clause"
+(XML Line 000156:243): element "clause" incomplete; missing required element "clause"
+(XML Line 000160:31): element "clause" incomplete; missing required element "clause"
+(XML Line 000164:31): element "clause" incomplete; missing required element "clause"
+(XML Line 000168:31): element "clause" incomplete; missing required element "clause"
+(XML Line 000200:31): element "clause" incomplete; missing required element "clause"
+(XML Line 000207:337): element "clause" incomplete; missing required element "clause"
